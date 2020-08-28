@@ -1,6 +1,12 @@
 <h1 align="center">Next Boilerplate</h1>
 
 <p align="center">
+  <img alt="Made by" src="https://img.shields.io/badge/made%20by-Morpa%20-%2356BEB8">
+
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/morpa/Next-Boilerplate.svg?color=56BEB8">
+
+  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/morpa/Next-Boilerplate.svg?color=56BEB8">
+
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/Morpa/Next-Boilerplate?color=56BEB8">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/Morpa/Next-Boilerplate?color=56BEB8">
