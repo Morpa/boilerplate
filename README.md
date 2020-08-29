@@ -15,6 +15,8 @@
 
   <img alt="License" src="https://img.shields.io/github/license/Morpa/Next-Boilerplate?color=56BEB8">
 
+  <img alt="CI" src="https://github.com/Morpa/boilerplate/workflows/ci/badge.svg?color=56BEB8">
+
 </p>
 
 ## What is inside?
