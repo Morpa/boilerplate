@@ -29,7 +29,7 @@
     "styled-components": "5.3.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.16.7",
+    "@babel/core": "^7.16.10",
     "@babel/preset-typescript": "^7.16.7",
     "@storybook/addon-essentials": "6.4.13",
     "@storybook/builder-webpack5": "^6.4.12",
@@ -52,7 +52,7 @@
     "husky": "^7.0.4",
     "jest": "^27.4.7",
     "jest-styled-components": "^7.0.8",
-    "lint-staged": "^12.1.7",
+    "lint-staged": "^12.2.1",
     "plop": "^3.0.5",
     "prettier": "^2.5.1",
     "storybook-addon-next-router": "^3.1.1",
